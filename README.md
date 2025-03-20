@@ -10,11 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kuldeepc22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuldeepc22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kuldeepchaturvedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeepchaturvedi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kuldeepchaturvedi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeepchaturvedi001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/chaturvedi13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://chaturvedi13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.linkedin.com/in/kuldeepchaturvedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kuldeepchaturvedi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/chaturvedico8s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaturvedico8s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuldeepchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeepchaturvedi" height="30" width="40" /></a>
+<a href="https://kaggle.com/kuldeepchaturvedi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeepchaturvedi001" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chaturvedi13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaturvedi13" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kuldeepchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kuldeepchaturvedi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chaturvedico8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaturvedico8s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepchaturvedi22&show_icons=true&locale=en&layout=compact" alt="kuldeepchaturvedi22" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepchaturvedi22&show_icons=true&locale=en" alt="kuldeepchaturvedi22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepchaturvedi22&" alt="kuldeepchaturvedi22" /></p>
